@@ -1,0 +1,17 @@
+# Scraping
+requests
+beautifulsoup4
+
+# Embeddings & vector store
+sentence-transformers
+faiss-cpu
+numpy
+
+# LLM
+anthropic
+
+# Backend
+fastapi
+uvicorn[standard]
+python-dotenv
+pydantic
